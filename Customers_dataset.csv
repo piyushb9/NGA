@@ -1,0 +1,21 @@
+Record ID,Customer Name,Diet Preferences,Allergies,Food Preferences,Cuisine Preferences,Health Considerations,Most Ordered Dish,Preferred Dishes (Food IDs),Health Consideration
+1,Alice,Vegan,Nuts,Spicy,Italian,Low Cholesterol,Bruschetta,"F1, F7, F12",H1
+2,Bob,Vegetarian,None,Sweet,Indian,Heart Health,Gelato,"F2, F8, F14",H2
+3,Charlie,Non-vegetarian,Gluten,Savory,Mexican,Weight Management,Carbonara,"F3, F9, F15",H3
+4,Dana,Vegan,Dairy,Mild,Thai,Diabetes,Tofu Stir Fry,"F4, F10, F16",H4
+5,Edward,Non-vegetarian,Shellfish,Spicy,Chinese,None,Kung Pao Chicken,"F5, F11, F17",H5
+6,Frank,Vegetarian,None,Sweet,Indian,Diabetes,Chicken Tikka,"F6, F12, F18",H6
+7,Grace,Vegan,Gluten,Savory,Thai,Heart Health,Pad Thai,"F7, F13, F19",H7
+8,Henry,Non-vegetarian,Dairy,Mild,Chinese,Weight Management,Sweet and Sour Pork,"F8, F14, F20",H8
+9,Isla,Vegetarian,Nuts,Spicy,Italian,Low Cholesterol,Lasagna,"F9, F15, F21",H9
+10,Jack,Vegan,None,Sweet,Indian,Diabetes,Samosa,"F10, F16, F22",H10
+11,Karen,Non-vegetarian,Gluten,Savory,Thai,Heart Health,Green Curry,"F11, F17, F23",H1
+12,Leo,Vegetarian,Dairy,Mild,Chinese,Weight Management,Mapo Tofu,"F12, F18, F24",H2
+13,Mia,Vegan,Nuts,Spicy,Italian,Low Cholesterol,Ravioli,"F13, F19, F25",H3
+14,Nora,Non-vegetarian,None,Sweet,Indian,Diabetes,Biryani,"F14, F20, F26",H4
+15,Oliver,Vegetarian,Gluten,Savory,Thai,Heart Health,Tom Yum Soup,"F15, F21, F27",H5
+16,Peter,Vegan,Dairy,Mild,Chinese,Weight Management,General Tso's Chicken,"F16, F22, F28",H6
+17,Quinn,Non-vegetarian,Nuts,Spicy,Italian,Low Cholesterol,Spaghetti Carbonara,"F17, F23, F29",H7
+18,Rachel,Vegetarian,None,Sweet,Indian,Diabetes,Naan Bread,"F18, F24, F30",H8
+19,Steve,Vegan,Gluten,Savory,Thai,Heart Health,Thai Basil Chicken,"F19, F25, F31",H9
+20,Tina,Non-vegetarian,Dairy,Mild,Chinese,Weight Management,Szechuan Beef,"F20, F26, F32",H10
